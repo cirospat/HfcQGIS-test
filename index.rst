@@ -6,9 +6,9 @@ Markdown files:
 .. toctree::
    :glob:
 
-   markdown
+   novita_3.2
 
-RST files:
+Coleggalemti alle funzioni:
 
 .. toctree::
    :glob:
