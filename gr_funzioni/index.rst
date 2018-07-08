@@ -10,7 +10,6 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
   aggregates/readme_mod
   arrays/readme_mod
-<<<<<<< HEAD
   campi_e_valori/readme_mod
   colore/readme_mod
   condizioni/readme_mod
@@ -32,6 +31,3 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   transformation/readme_mod
   variabili/readme_mod
   
-=======
->>>>>>> origin/master
-   
