@@ -2,7 +2,4 @@
 Aggregates elenco funzioni
 ########
 
-.. toctree::
-   :maxdepth: 3
-
-   README
+/readme_mod.md
