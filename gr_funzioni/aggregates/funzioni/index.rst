@@ -1,5 +1,5 @@
 ########
-Aggregates elenco funzioni
+Aggregates
 ########
 
 .. toctree::
