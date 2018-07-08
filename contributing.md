@@ -1,4 +1,4 @@
-## Contribuire a HfcQGIS 
+# Contribuire a HfcQGIS 
 
 Prima di tutto, grazie per aver dedicato del tempo a questo progetto! 👍
 
