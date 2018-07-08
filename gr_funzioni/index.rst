@@ -10,5 +10,5 @@ Indice gruppi di funzioni/espressioni (301/396)
    :titlesonly:
    :hidden:
 
-  Aggregates <aggregates/readme_mod>  
+  Aggregates test <aggregates/readme_mod>  
    
