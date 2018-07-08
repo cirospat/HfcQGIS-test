@@ -1,5 +1,5 @@
 ########
-Aggregates elenco funzioni
+Aggregates funzioni
 ########
 
-/readme_mod.md
+
