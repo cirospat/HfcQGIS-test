@@ -9,7 +9,7 @@ Contenuti:
 * :ref:`Concetti fondamentali sul calcolatore di campi di QGIS <concetti>`
 * :ref:`Interfaccia calcolatore di campi <calcolatore>`
 * :ref:`Operatori interfaccia <operatori>`
-* :ref:`Elenco funzioni QGIS <novita>`
+* :ref:`Elenco funzioni QGIS <gr_funzioni>`
 * :ref:`Contribuire a HfcQGIS <contributing>`
 
 .. _novita:
