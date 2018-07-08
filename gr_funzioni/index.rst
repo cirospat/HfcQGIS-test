@@ -5,7 +5,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 
 .. toctree::
-   :titlesonly:
+   :maxdepth: 1
    :hidden:
 
   aggregates/readme_mod
