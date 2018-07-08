@@ -1,4 +1,4 @@
-## Aggregates
+# Aggregates
 
 Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di [parametri con nome](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions).
 
@@ -29,8 +29,7 @@ Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 
 
 ![](/img/aggregates/gruppo_aggregates1.png)
 
-Nota bene
----------
+## Nota bene
 
 Grazie ai [_parametri denominati_](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions) non è più indispensabile seguire, nella sintassi, l'ordine degli argomenti, ecco un esempio:
 
