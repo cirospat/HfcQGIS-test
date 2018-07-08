@@ -8,7 +8,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 .. toctree::
    :maxdepth: 3
 
-  aggregates/index
+  aggregates/readme_mod
 
 
    
