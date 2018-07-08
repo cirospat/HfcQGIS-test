@@ -1,18 +1,41 @@
 HfcQGIS-test
 -------------
 
-Markdown files:
+########
+Aggregates elenco funzioni
+########
 
 .. toctree::
-   :glob:
+   :maxdepth: 3
 
-   markdown
+   aggregate
+   array_agg
+   collect
+   concatenate
+   count
+   count_distinct
+   count_missing
+   iqr
+   majority
+   max_length
+   maximum
+   mean
+   median
+   min_length
+   minimum
+   minority
+   q1
+   q3
+   range
+   relation_aggregate
+   stdev
+   sum
 
-RST files:
+########
+Arrays elenco funzioni
+########
 
 .. toctree::
-   :glob:
-
-   rst
+   :maxdepth: 3
    
    
