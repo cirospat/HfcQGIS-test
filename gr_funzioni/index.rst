@@ -6,7 +6,7 @@ In accumsan diam lacus, non posuere lectus malesuada eget. Aenean fringilla mass
 .. toctree::
    :maxdepth: 3
 
-   gr_funzioni/aggregates/index
+  aggregates/index
 
 
    
