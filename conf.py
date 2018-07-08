@@ -282,10 +282,10 @@ texinfo_documents = [
 # Markdown support
 
 from recommonmark.parser import CommonMarkParser
-
+source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser',}
 # The suffix of source filenames.
-source_suffix = ['.rst', '.md']
-#source_suffix = ['.md', '.rst']
+#source_suffix = ['.rst', '.md']
+source_suffix = ['.md', '.rst']
 
 extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 
@@ -293,6 +293,4 @@ extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 	#'.md': CommonMarkParser,
 #}
 
-source_parsers = {
-   '.md': 'recommonmark.parser.CommonMarkParser',
-}
+
