@@ -5,7 +5,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 Contenuti:
 
-* :ref:`Funzioni Qgis <gr_funzioni>`
+* :ref:`Elenco funzioni QGIS <gr_funzioni>`
 
 .. _gr_funzioni:
 
