@@ -38,3 +38,8 @@ La sintassi prevede due possibilità:
     1. count_distinct(_expression, group_by, filter_)
 2. con i parametri denominati (l'ordine non è più fondamentale): 
     1. count_distinct(filter:= ,_expression:= ,group_by:=_)
+    
+    .. toctree::
+   :maxdepth: 3
+
+  funzioni/index
