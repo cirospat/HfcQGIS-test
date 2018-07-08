@@ -7,12 +7,10 @@ Contenuti:
 
 * :ref:`Funzioni Qgis <gr_funzioni>`
 
-Coleggalemti alle funzioni:
+.. _gr_funzioni:
 
 .. toctree::
    :maxdepth: 3
-
-.. _gr_funzioni:
 
    gr_funzioni/index
    
