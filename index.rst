@@ -12,6 +12,9 @@ Contenuti:
 * :ref:`Elenco funzioni QGIS <gr_funzioni>`
 * :ref:`Contribuire a HfcQGIS <contributing>`
 
+Novità
+======
+
 .. _novita:
 
 .. toctree::
