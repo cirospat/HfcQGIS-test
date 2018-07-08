@@ -7,8 +7,8 @@ Indice gruppi di funzioni/espressioni (301/396)
 ------------------------------------------------
 
 .. toctree::
-   :maxdepth: 3
+   :titlesonly:
    :hidden:
 
-  Aggregates test <aggregates/readme_mod>  
+  aggregates/readme_mod
    
