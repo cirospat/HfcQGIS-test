@@ -6,7 +6,7 @@ Quella che segue è una serie di linee guida per contribuire a **HfcQGIS**. Ques
 
 **Come puoi contribuire** 
 
-**Donazione [qui]**(https://www.paypal.me/pigrecoinfinito)<br>
+**Donazione [qui](https://www.paypal.me/pigrecoinfinito)**<br>
 Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta la mia conoscenza sullo strumento.
 
 **Segnalazione di bug**<br>
