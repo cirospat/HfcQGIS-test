@@ -41,6 +41,9 @@ Interfaccia
 
    interfaccia
    
+Operatori
+==========
+   
 .. _operatori:
 
 .. toctree::
