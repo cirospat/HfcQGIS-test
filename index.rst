@@ -19,21 +19,22 @@ Contenuti:
 
    novita_3.2
    
-   .. _concetti:
+   
+.. _concetti:
    
 .. toctree::
    :maxdepth: 3
 
    concetti  
    
- .. _calcolatore:
+.. _calcolatore:
 
 .. toctree::
    :maxdepth: 3
 
    interfaccia
    
- .. _operatori:
+.. _operatori:
 
 .. toctree::
    :maxdepth: 3
@@ -47,7 +48,7 @@ Contenuti:
 
    gr_funzioni/index
   
-   .. _contributing:
+.. _contributing:
 
 .. toctree::
    :maxdepth: 3
