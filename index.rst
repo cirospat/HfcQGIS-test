@@ -11,9 +11,9 @@ Markdown files:
 Coleggalemti alle funzioni:
 
 .. toctree::
-   :glob:
+   :maxdepth: 3
 
-   loremipsum
+   gr_funzioni/aggregates/index
    
    
 
