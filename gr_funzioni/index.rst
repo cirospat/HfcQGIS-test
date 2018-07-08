@@ -1,7 +1,17 @@
 Elenco funzioni Qgis 
 -------------
 
-In accumsan diam lacus, non posuere lectus malesuada eget. Aenean fringilla massa leo, id condimentum odio fermentum sit amet. Quisque mauris risus, tempor eleifend quam at, mollis vulputate lectus. Ut id congue velit. Pellentesque porttitor, massa sollicitudin volutpat hendrerit, lacus urna faucibus lectus, at aliquam ex tellus at dui. Quisque et efficitur felis. Fusce iaculis iaculis lacus. Donec aliquam quam ut sem placerat, vel lobortis metus hendrerit. Proin placerat ligula erat, ac hendrerit ligula semper quis. Mauris sit amet fringilla urna. Quisque ullamcorper mollis magna, et laoreet sem vehicula ut. Praesent risus ipsum, suscipit a ex quis, iaculis eleifend purus. In id tincidunt arcu. Donec sagittis justo quis nibh eleifend, in bibendum nibh dapibus.
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-square)](https://github.com/pigreco/HfcQGIS)
+[![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
+[![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)](http://qgis.org/en/site/getinvolved/donations.html)
+
+![logo](img/logo_def_128.png)
+
+# ![logo](img/logo_def2_64.png) Help funzioni calcolatore di campi di QGIS (HfcQGIS)
+
+Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
+
+## Indice gruppi di funzioni/espressioni (301/396)
 
 .. toctree::
    :maxdepth: 3
