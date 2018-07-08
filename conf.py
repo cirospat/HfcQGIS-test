@@ -288,10 +288,10 @@ source_suffix = ['.rst', '.md']
 
 extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 
-#source_parsers = {
-	#'.md': CommonMarkParser,
-#}
-
 source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
+	'.md': CommonMarkParser,
 }
+
+#source_parsers = {
+#    '.md': 'recommonmark.parser.CommonMarkParser',
+#}
