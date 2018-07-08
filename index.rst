@@ -13,7 +13,7 @@ Coleggalemti alle funzioni:
 .. toctree::
    :maxdepth: 3
 
-   gr_funzioni/aggregates/index
+   gr_funzioni/index
    
    
 
