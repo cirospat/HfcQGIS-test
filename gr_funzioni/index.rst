@@ -9,4 +9,5 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :hidden:
 
   aggregates/readme_mod
+  arrays/readme_mod
    
