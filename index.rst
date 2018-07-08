@@ -22,7 +22,9 @@ Novità
 
    novita_3.2
    
-   
+Concetti fondamentali
+=====================
+
 .. _concetti:
    
 .. toctree::
@@ -30,6 +32,8 @@ Novità
 
    concetti  
    
+Interfaccia
+============
 .. _calcolatore:
 
 .. toctree::
@@ -44,12 +48,18 @@ Novità
 
    operatori
    
+Funzioni
+========
+   
 .. _gr_funzioni:
 
 .. toctree::
    :maxdepth: 3
 
    gr_funzioni/index
+   
+Contribuire
+===========
   
 .. _contributing:
 
