@@ -6,7 +6,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 
 | Funzione  | Descrizione | QGIS
-----------:|:------------|:---
+----------:|:------------|:------
 |[\$area](funzioni/$area.html)|Restituisce l'area della geometria corrente|2.18
 |[\$geometry](funzioni/$geometry.html)|Restituisce la geometria dell'elemento attuale. Può essere usato per il processamento con altre funzioni|2.18
 |[\$length](funzioni/$length.html)|Restituisce la lunghezza di una linestring|2.18
