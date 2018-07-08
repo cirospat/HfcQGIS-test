@@ -2,8 +2,8 @@
 
 Questo gruppo contiene funzioni per gestire dati con _date_ e _ore_.
 
- Funzione  | Descrizione
-----------:|:-----------
+| Funzione  | Descrizione|
+|----------:|:-----------|
 |[age](funzioni/age.html)|Restituisce la differenza fra due date o datetimes
 |[day](funzioni/day.html)|Estrae il giorno da una data, o il numero dei giorni da un intervallo
 |[day_of_week](funzioni/day_of_week.html)|Restituisce il giorno della settimana per una data o un datetime
