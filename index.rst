@@ -46,7 +46,7 @@ Contenuti:
    :maxdepth: 3
 
    gr_funzioni/index
-   
+  
    .. _contributing:
 
 .. toctree::
