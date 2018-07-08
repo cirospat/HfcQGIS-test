@@ -13,6 +13,6 @@ Coleggalemti alle funzioni:
 .. toctree::
    :glob:
 
-   rst
+   loremipsum
    
    
