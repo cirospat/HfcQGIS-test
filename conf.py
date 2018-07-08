@@ -32,6 +32,11 @@
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+html_static_path = ['static']
+
+def setup(app):
+    # overrides for wide tables in RTD theme
+app.add_stylesheet('theme_overrides.css') # path relative to static
 
 from recommonmark.parser import CommonMarkParser
 
@@ -86,10 +91,3 @@ html_favicon = "img/favicon.ico"
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 html_logo = "img/hfcqgis_ods.png"
-
-
-html_static_path = ['static']
-
-def setup(app):
-    # overrides for wide tables in RTD theme
-app.add_stylesheet('theme_overrides.css') # path relative to static
