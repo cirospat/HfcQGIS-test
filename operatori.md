@@ -1,4 +1,4 @@
-L'interfaccia del calcolatore rende immediatamente disponibili alcuni operatori:
+# L'interfaccia del calcolatore rende immediatamente disponibili alcuni operatori:
 
 ![operatori](/img/operatori_calc1.png)
 
