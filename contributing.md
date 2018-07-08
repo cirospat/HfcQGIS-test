@@ -6,20 +6,20 @@ Quella che segue è una serie di linee guida per contribuire a **HfcQGIS**. Ques
 
 **Come puoi contribuire** 
 
-**Donazione [qui]**(https://www.paypal.me/pigrecoinfinito)
+**Donazione [qui]**(https://www.paypal.me/pigrecoinfinito)<br>
 Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta la mia conoscenza sullo strumento.
 
-**Segnalazione di bug**
+**Segnalazione di bug**<br>
 Se trovi qualche malfunzionamento segnalalo cosi da migliorare la guida.
 
-**Suggerire miglioramenti**
+**Suggerire miglioramenti**<br>
 Se hai suggerimenti o migliorie segnalale.
 
-**Suggerire esempi/esercizi**
+**Suggerire esempi/esercizi**<br>
 Se vuoi che la sezione esempi cresca, suggerisci degli esempi che vorresti vedere.
 
-**Pull Requests**
-Includere screenshot e GIF animate nella richiesta di pull, quando possibile.
-Documenta bene
-Terminare tutti i file con una nuova riga
-Evita il codice dipendente dalla piattaforma
+**Pull Requests**<br>
+Includere screenshot e GIF animate nella richiesta di pull, quando possibile.<br>
+Documenta bene<br>
+Terminare tutti i file con una nuova riga<br>
+Evita il codice dipendente dalla piattaforma<br>
