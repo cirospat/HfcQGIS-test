@@ -43,9 +43,9 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Test'
-copyright = u'2015, Test'
-author = u'Test'
+project = u'HfcQGIS'
+copyright = u'2018, Salvatore Fiandaca'
+author = u'Salvatore Fiandaca'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -71,7 +71,7 @@ language = None
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -286,6 +286,12 @@ from recommonmark.parser import CommonMarkParser
 # The suffix of source filenames.
 source_suffix = ['.rst', '.md']
 
+extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
+
+#source_parsers = {
+	#'.md': CommonMarkParser,
+#}
+
 source_parsers = {
-	'.md': CommonMarkParser,
+    '.md': 'recommonmark.parser.CommonMarkParser',
 }
