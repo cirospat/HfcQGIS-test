@@ -10,76 +10,55 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 * Indice gruppi di funzioni/espressioni (302/397)
 * Calcolatore di campi
 
-    * [Concetti](./calcolatore_campi/concetti.md) Concetti base sul calcolatore di campi
-    `Linguaggio]<https://gis.stackexchange.com/questions/247474/what-language-do-qgis-expressions-use-what-language-should-qgis-queries-be-writ>`_ Che linguaggio usa il calcolatore di campi?
-    
-      * `Interfaccia<interfaccia.md>`_  Introduzione all'interfaccia calcolatore di campi
-    
+* Concetti base sul calcolatore di campi
+* Che linguaggio usa il calcolatore di campi?
+* Introduzione all'interfaccia calcolatore di campi
+* Operatori presenti nell'interfaccia del calcolatore
 
- 
-    * [Operatori](./calcolatore_campi/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
-    * [Esempi](./esempi) (9) - Esempi dettagliati sull'uso delle funzioni
-    
-    *  Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018
-    * [Generatore di espressioni](https://github.com/pigreco/HfcQGIS/blob/master/novita_3.2.md#novit%C3%A0-rilevanti-introdotte-nella-32)
-    * [Form drill-down (a cascata) WIDGET](https://github.com/pigreco/HfcQGIS/blob/master/novita_3.2.md#feature-form-drill-down-a-cascata--widget-value-relation-relazione-valore)
-* [Cosa puoi fare](/CONTRIBUTING.md) ❔
-* [Donazioni](https://www.paypal.me/pigrecoinfinito) 💶 💳
+* Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018
+* Form drill-down (a cascata) WIDGET
+* Cosa puoi fare
+* Donazioni
 
 ### Ringraziamenti
 
-* [Andrea Borruso](https://twitter.com/aborruso?lang=it) per il supporto tecnico GitHub, VScode, Markdown, RTD e gitbook;
-* [Giovan Battista Vitrano](https://twitter.com/gbvitrano?lang=it) per l'idea di realizzare **HfcQGIS** in RTD e la predisposizione del repo GitHub per RTD;;
-* [Ciro Spataro](https://twitter.com/cirospat?lang=it) per la [guida](http://come-creare-guida.readthedocs.io/it/latest/) Read The Docs
+* Andrea Borruso per il supporto tecnico GitHub, VScode, Markdown, RTD e gitbook;
+* Giovan Battista Vitrano per l'idea di realizzare **HfcQGIS** in RTD e la predisposizione del repo GitHub per RTD;
+* Ciro Spataro per la guida Read The Docs
 
 ### Autore HfcQGIS
-* [Salvatore FIANDACA](./autore.md) (_aka pigreco_)
+* Salvatore FIANDACA 
 
 ### Licenze
-
-Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 4.0 licence <a href="https://creativecommons.org/licenses/by-sa/4.0/" Title="CC BY-SA" target="_blank">CC BY-SA</a>
-
+Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)
 
 
-.. _novita:
-
-.. toctree::
-   :maxdepth: 3
-
-   novita_3.2
-   
-.. _concetti:
-   
 .. toctree::
    :maxdepth: 3
 
    concetti  
-
-.. _calcolatore:
 
 .. toctree::
    :maxdepth: 3
 
    interfaccia
     
-.. _operatori:
-
 .. toctree::
    :maxdepth: 3
 
    operatori
+
+.. toctree::
+   :maxdepth: 3
+
+   novita_3.2
    
-.. _gr_funzioni:
+.. toctree::
+   :maxdepth: 3
+
+   contributing
 
 .. toctree::
    :maxdepth: 1
 
    gr_funzioni/index
-    
-.. _contributing:
-
-.. toctree::
-   :maxdepth: 3
-
-   contributing
-   
