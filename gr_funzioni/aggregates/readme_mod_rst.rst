@@ -1,7 +1,11 @@
 Aggregates
 ----------
 
+<<<<<<< HEAD
 Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di `_parametri con nome <http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions>`__.
+=======
+Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di `parametri con nome <http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions>`_.
+>>>>>>> origin/master
 
 +---------------------+---------------------------------------------------------------------------------------------------------------+
 | Funzione            | Descrizione                                                                                                   |
@@ -51,13 +55,17 @@ Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 
 
 `Linee guida di design per i servizi web della PA <https://design-italia.readthedocs.io>`__.
 
+.. figure:: ../../img/aggregates/gruppo_aggregates1.png
 
 
-![](/img/aggregates/gruppo_aggregates1.png)
 
 **Nota bene**
 
+<<<<<<< HEAD
 Grazie ai `parametri denominati_](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions) non è più indispensabile seguire, nella sintassi, l'ordine degli argomenti, ecco un esempio:
+=======
+Grazie ai `parametri denominati <http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions>`__ non è più indispensabile seguire, nella sintassi, l'ordine degli argomenti, ecco un esempio:
+>>>>>>> origin/master
 
 La sintassi prevede due possibilità:
 1. quella classica, senza l'uso dei paramentri denominati (l'ordine è fondamentale);
