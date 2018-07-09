@@ -1,7 +1,7 @@
 Aggregates
 ----------
 
-Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di [parametri con nome](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions).
+Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di `_parametri con nome <http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions>`_.
 
 +---------------------+---------------------------------------------------------------------------------------------------------------+
 | Funzione            | Descrizione                                                                                                   |
