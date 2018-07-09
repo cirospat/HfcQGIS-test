@@ -1,7 +1,7 @@
 Benvenuti  
 ---------
 
-.. figure:: ../../img/logo_def2_64.png  
+.. figure:: ../../img/logo_def2_64.png
 
 ### HfcQGIS: Help funzioni calcolatore di campi di `Qgis<https://qgis.org/it/site/>`_
 
