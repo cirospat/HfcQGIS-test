@@ -54,17 +54,9 @@ Operatori
 Funzioni
 ========
 
-`Funzioni`_
+-  `Elenco funzioni QGIS`_
 
-.. _Funzioni: gr_funzioni
-
-   
-.. _gr_funzioni:
-
-.. toctree::
-   :maxdepth: 3
-
-   gr_funzioni/index
+.. _Elenco funzioni QGIS: gr_funzioni
    
 Contribuire
 ===========
