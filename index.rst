@@ -53,6 +53,8 @@ Operatori
    
 Funzioni
 ========
+
+:ref:`Funzioni <gr_funzioni/index>`
    
 .. _gr_funzioni:
 
