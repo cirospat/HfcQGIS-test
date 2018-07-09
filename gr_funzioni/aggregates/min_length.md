@@ -1,4 +1,4 @@
-## Funzione `min_length`
+# min_length
 
 Restituisce la lunghezza minima delle stringhe di un campo o espressione.
 
