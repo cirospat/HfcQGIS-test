@@ -1,4 +1,4 @@
-## Funzione `sum`
+# sum
 
 Restituisce il valore sommato aggregato da un campo o espressione.
 
