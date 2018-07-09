@@ -1,4 +1,4 @@
-## Funzione `median`
+# median
 
 Restituisce il valore mediano aggregato da un campo o espressione.
 
