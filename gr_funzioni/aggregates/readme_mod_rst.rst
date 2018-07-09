@@ -50,11 +50,14 @@ Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 
 +---------------------+---------------------------------------------------------------------------------------------------------------+
 
 
-.. figure:: img/aggregates/gruppo_aggregates1.png 
+.. figure:: img/aggregates/gruppo_aggregates1.png
+:width:                                    
+:height: 
 
 **Nota bene**
 
-Grazie ai `parametri denominati<http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions>`_ non è più indispensabile seguire, nella sintassi, l'ordine degli argomenti, ecco un esempio:
+
+Grazie ai `parametri denominati <http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions>`_ non è più indispensabile seguire, nella sintassi, l'ordine degli argomenti, ecco un esempio:
 
 La sintassi prevede due possibilità:
 1. quella classica, senza l'uso dei paramentri denominati (l'ordine è fondamentale);
