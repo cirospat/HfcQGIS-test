@@ -8,7 +8,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :maxdepth: 1
    :hidden:
 
-  aggregates/readme_mod
+  aggregates/readme_mod_rst
   arrays/readme_mod
   campi_e_valori/readme_mod
   colore/readme_mod
