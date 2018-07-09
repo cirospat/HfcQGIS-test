@@ -57,6 +57,11 @@ Funzioni
 -  `Elenco funzioni QGIS`_
 
 .. _Elenco funzioni QGIS: gr_funzioni
+
+.. toctree::
+   :maxdepth: 1
+
+   gr_funzioni/index
    
 Contribuire
 ===========
