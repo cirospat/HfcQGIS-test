@@ -9,7 +9,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :hidden:
 
   aggregates/readme_mod_rst
-  arrays/readme_mod
+  arrays/readme_mod_rst
   campi_e_valori/readme_mod
   colore/readme_mod
   condizioni/readme_mod
