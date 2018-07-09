@@ -12,3 +12,7 @@
       overflow: visible !important;
    }
 }
+
+span.pre {
+ overflow-x: auto;  
+}
