@@ -3,7 +3,7 @@ Aggregates
 ########
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
 
    aggregate
    array_agg
