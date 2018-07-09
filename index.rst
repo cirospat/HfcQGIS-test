@@ -33,7 +33,11 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 ### Licenze
 Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)
 
+.. toctree::
+   :maxdepth: 3
 
+   index 
+   
 .. toctree::
    :maxdepth: 3
 
