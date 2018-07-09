@@ -54,9 +54,10 @@ Operatori
 Funzioni
 ========
 
-`Funzioni <gr_funzioni/index>`
+`Funzioni`_
 
-* :ref:`Elenco funzioni QGIS <gr_funzioni>`
+.. _Funzioni: gr_funzioni
+
    
 .. _gr_funzioni:
 
