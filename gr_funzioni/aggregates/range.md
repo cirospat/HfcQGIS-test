@@ -1,4 +1,4 @@
-## Funzione `range`
+# range
 
 Restituisce l'intervallo aggregato di valori (massimo - minimo) da un campo o espressione.
 
