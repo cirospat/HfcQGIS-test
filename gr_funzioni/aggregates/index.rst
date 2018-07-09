@@ -3,7 +3,7 @@ Aggregates
 ########
 
 .. toctree::
-   :titlesonly:
+   :hidden:
 
    aggregate
    array_agg
