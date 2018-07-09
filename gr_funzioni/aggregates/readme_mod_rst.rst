@@ -50,8 +50,6 @@ Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 
 | sum                 | Restituisce il valore sommato aggregato da un campo o espressione                                             |
 +---------------------+---------------------------------------------------------------------------------------------------------------+
 
-`Linee guida di design per i servizi web della PA <https://design-italia.readthedocs.io>`__.
-
 .. figure:: ../../img/aggregates/gruppo_aggregates1.png
 
 
