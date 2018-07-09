@@ -1,4 +1,4 @@
-## Funzione `relation_aggregate`
+# relation_aggregate
 
 Restituisce un valore aggregato calcolato usando tutte le geometrie figlie corrispondenti da un altro vettore.
 
