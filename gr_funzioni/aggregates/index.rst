@@ -2,9 +2,6 @@
 Aggregates
 ########
 
-.. toctree::
-   :hidden:
-
    aggregate
    array_agg
    collect
