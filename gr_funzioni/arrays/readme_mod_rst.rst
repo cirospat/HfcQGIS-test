@@ -75,6 +75,8 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 
 .. figure:: ../../img/arrays/gruppo_arrays1.png
 
+**Elenco funzioni Arrays**
+
 .. toctree::
    :maxdepth: 3
    
