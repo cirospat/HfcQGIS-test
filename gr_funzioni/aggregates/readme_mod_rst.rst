@@ -53,8 +53,8 @@ Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 
 .. figure:: ../../img/aggregates/gruppo_aggregates1.png
 
 
-**Nota bene**
 
+**Nota bene**
 
 Grazie ai `parametri denominati <http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions>`__ non è più indispensabile seguire, nella sintassi, l'ordine degli argomenti, ecco un esempio:
 
