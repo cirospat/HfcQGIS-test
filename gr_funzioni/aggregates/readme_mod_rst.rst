@@ -50,7 +50,7 @@ Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 
 +---------------------+---------------------------------------------------------------------------------------------------------------+
 
 
-.. figure:: img/aggregates/gruppo_aggregates1.png
+.. figure:: ../../img/aggregates/gruppo_aggregates1.png
 
 
 **Nota bene**
