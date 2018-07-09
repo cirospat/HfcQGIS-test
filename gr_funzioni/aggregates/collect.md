@@ -1,4 +1,4 @@
-# Funzione `collect`
+# collect
 
 Restituisce la geometria a parti multiple di geometrie aggregate da una espressione
 

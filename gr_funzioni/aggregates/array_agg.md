@@ -1,4 +1,4 @@
-# Funzione `array_agg`
+# array_agg
 
 Restituisce un array di valori aggregati da un campo o espressione.
 
