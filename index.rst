@@ -54,6 +54,8 @@ Operatori
 Funzioni
 ========
 
+.. _gr_funzioni:
+
 .. toctree::
    :maxdepth: 1
 
