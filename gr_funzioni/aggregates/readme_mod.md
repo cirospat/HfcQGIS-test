@@ -39,3 +39,7 @@ La sintassi prevede due possibilità:
 2. con i parametri denominati (l'ordine non è più fondamentale): 
     1. count_distinct(filter:= ,_expression:= ,group_by:=_)
    
+     .. toctree::
+   :maxdepth: 1
+   :hidden:
+   index

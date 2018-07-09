@@ -31,9 +31,6 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
   transformation/readme_mod
   variabili/readme_mod
   
-  .. toctree::
-   :maxdepth: 1
-   :hidden:
-   aggregates/index
+
   
   
