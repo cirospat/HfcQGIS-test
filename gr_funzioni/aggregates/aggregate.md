@@ -2,11 +2,11 @@
 
 Restituisce un valore aggregato calcolato usando elementi da un altro vettore.
 
-**Sintassi**
+## Sintassi
 
 aggregate(*layer, aggregate, calculation, filter, concatenator*)
 
-**Argomenti**
+## Argomenti
 
 * *layer* una stringa, rappresentante o un nome di un layer o un ID di layer
 * *aggregate* una stringa corrispondente all'aggregato da calcolare. Opzioni valide sono:
@@ -35,7 +35,7 @@ aggregate(*layer, aggregate, calculation, filter, concatenator*)
 * *concatenator* stringa opzionale da usare per unire i valori per il raggruppamento 'concatenate'
 
 
-**Esempi**
+## Esempi
 
 * `aggregate(layer:='province_g',aggregate:='sum',expression:=$area) → somma le aree di tutte le province valore mq (se EPSG proiettato)`
 * `aggregate(layer:='province_g',aggregate:='sum',expression:=$area/1000000) → somma le aree di tutte le province valore in kmq (se EPSG proiettato)`
@@ -45,16 +45,16 @@ aggregate(*layer, aggregate, calculation, filter, concatenator*)
 
 ![](/img/aggregates/aggregate/aggregate1.png)
 
-**nota bene**
+## nota bene
 
 --
 
-**osservazioni**
+## osservazioni
 
 i nomi dei layer vanno scritti tra apici semplici ('nome_layer') mentre i nomi dei campi con doppi apici ("nome_campo")
 
 ![](/img/aggregates/aggregate/aggregate2.png)
 
-**Altri esempi**
+## Altri esempi
 
 Come realizzare una spatial-join con aggregazione usando solo il calcolatore di campi [qui](https://medium.com/@salvatorefiandaca/qgis-3-0-funzioni-di-aggregazione-9c8c389985c5)
