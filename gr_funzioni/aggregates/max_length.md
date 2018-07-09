@@ -1,4 +1,4 @@
-## Funzione `max_length`
+# max_length
 
 Restituisce la lunghezza massima delle stringhe di un campo o espressione.
 
