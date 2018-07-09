@@ -1,4 +1,4 @@
-## Funzione `maximum`
+# maximum
 
 Restituisce il valore massimo aggregato da un campo o espressione.
 
