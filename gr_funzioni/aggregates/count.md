@@ -1,4 +1,4 @@
-# Funzione `count`
+# count
 
 Restituisce il conteggio degli elementi corrispondenti.
 
