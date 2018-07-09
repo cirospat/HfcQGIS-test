@@ -1,7 +1,7 @@
 Aggregates
 ----------
 
-Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di [parametri con nome](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions).
+Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di `_parametri con nome <http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions>`__.
 
 +---------------------+---------------------------------------------------------------------------------------------------------------+
 | Funzione            | Descrizione                                                                                                   |
@@ -49,6 +49,7 @@ Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 
 | sum                 | Restituisce il valore sommato aggregato da un campo o espressione                                             |
 +---------------------+---------------------------------------------------------------------------------------------------------------+
 
+`Linee guida di design per i servizi web della PA <https://design-italia.readthedocs.io>`__.
 
 
 
@@ -56,7 +57,7 @@ Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 
 
 **Nota bene**
 
-Grazie ai [_parametri denominati_](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions) non è più indispensabile seguire, nella sintassi, l'ordine degli argomenti, ecco un esempio:
+Grazie ai `parametri denominati_](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions) non è più indispensabile seguire, nella sintassi, l'ordine degli argomenti, ecco un esempio:
 
 La sintassi prevede due possibilità:
 1. quella classica, senza l'uso dei paramentri denominati (l'ordine è fondamentale);

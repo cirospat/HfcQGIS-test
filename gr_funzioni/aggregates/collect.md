@@ -1,28 +1,28 @@
-## Funzione `collect`
+# Funzione `collect`
 
 Restituisce la geometria a parti multiple di geometrie aggregate da una espressione
 
-## Sintassi
+**Sintassi**
 
 collect(_expression, group_by, filter_)
 
-## Argomenti
+**Argomenti**
 
 * _expression_ espressione geometria da aggregare
 * _group_by_ espressione opzionale da usarsi per raggruppare i calcoli aggregati
 * _filter_ espressione opzionale da usare per filtrare gli elementi usati per calcolare il valore aggregato
 
-## Esempi
+**Esempi**
 
 * `collect( $geometry ) → geometria a parti multiple delle geometrie aggregate`
 
 ![](/img/aggregates/collect/collect1.png)
 
-## nota bene
+**nota bene**
 
 --
 
-## osservazioni
+**osservazioni**
 
 --
 
